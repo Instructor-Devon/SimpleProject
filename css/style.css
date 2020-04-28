@@ -1,0 +1,8 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    color: orange;
+    text-shadow: 2px 2px 1px black;
+    font-family: monospace;
+}
